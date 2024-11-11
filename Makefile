@@ -14,7 +14,7 @@ CC = cc
 RM = rm -f
 CFLAGS = -Wall -Wextra -Werror -g
 
-NAME = ft_printf.a
+NAME = libftprintf.a
 
 SRC = ft_functions.c ft_printf.c
 
